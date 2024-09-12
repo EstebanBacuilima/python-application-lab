@@ -6,7 +6,7 @@
 
 Este repositorio está organizado en diferentes carpetas y archivos, cada uno correspondiente a un proyecto o tarea específica. A continuación, se detalla la estructura general:
 
-- **`/tareas`**: Esta carpeta contiene las tareas individuales que he realizado. Cada tarea está organizada en su propia subcarpeta y puede incluir scripts, informes o cualquier material relacionado.
+- **`/Tasks`**: Esta carpeta contiene las tareas individuales que he realizado. Cada tarea está organizada en su propia subcarpeta y puede incluir scripts, informes o cualquier material relacionado.
 
 ## Cómo Usar Este Repositorio
 
