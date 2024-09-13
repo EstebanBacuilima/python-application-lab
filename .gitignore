@@ -1,0 +1,6 @@
+# Ignorar entornos virtuales
+*_env/
+
+# Otras reglas de ignorar
+*.pyc
+__pycache__/
